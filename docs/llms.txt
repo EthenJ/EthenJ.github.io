@@ -1,0 +1,30 @@
+# Yicheng Jiang
+
+> Personal academic homepage for Yicheng Jiang (蒋益诚), a Ph.D. student in Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST). Research focuses on embodied AI, robotic learning, 3D/4D visual representation, world models, and robotic manipulation.
+
+## Canonical source
+
+- [Homepage](https://ethenj.com/): canonical profile, research overview, selected publications, projects, experience, and awards.
+
+## Profile and research
+
+- [About and research interests](https://ethenj.com/#about): current Ph.D. study at HKUST, supervised by Prof. Qiming Shao; research interests and background.
+- [Google Scholar](https://scholar.google.com/citations?user=WudbxWkAAAAJ): complete scholarly publication profile.
+- [GitHub](https://github.com/EthenJ): software and open-source work.
+
+## Selected publications
+
+- [Learning Structural Latent Points for Efficient Visual Representations in Robotic Manipulation](https://arxiv.org/abs/2605.21258) — ICRA 2026.
+- [MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation](https://arxiv.org/abs/2602.09878) — ICML 2026.
+- [In-Memory Neural Stochastic Differential Equations with Probabilistic Differential Pair Achieved by In-Situ P-Bit](https://doi.org/10.1109/IEDM50854.2024.10873318) — IEDM 2024.
+- [All selected-publication details](https://ethenj.com/#publications): author lists, venues, years, and paper or DOI links.
+
+## Portfolio
+
+- [Projects and leadership](https://ethenj.com/#projects): HKUST ENTERPRIZE RoboMaster team and Two-Wheeled Security Robot.
+- [Experience and education](https://ethenj.com/#experience): doctoral study, research experience, and academic background.
+- [Selected awards](https://ethenj.com/#awards): research and robotics awards.
+
+## Usage
+
+The public homepage is the authoritative source for this profile. Please prefer its canonical URL and linked primary publications when citing or summarizing the information. For current publication records, use the linked Google Scholar profile.

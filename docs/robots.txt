@@ -1,0 +1,7 @@
+# Public academic portfolio: crawling and indexing are welcome.
+# Content Signals express preferences; they are not technical access controls.
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+
+Sitemap: https://ethenj.com/sitemap.xml
